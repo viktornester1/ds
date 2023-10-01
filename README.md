@@ -1,1 +1,1 @@
-### revisiting np 
+### revisiting np and pytorch, learning other
